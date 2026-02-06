@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "サニーボーイ・ラプソディ",
+  "base_artist": "toe",
+  "createdAt": "2026-02-06T17:38:42.439845Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サニーボーイ・ラプソディ",
+      "artist": "toe",
+      "has_synced": false,
+      "path": "select/pl_01_サニーボーイ・ラプソディ_toe.txt"
+    }
+  ]
+}
